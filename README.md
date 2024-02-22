@@ -1,6 +1,6 @@
 # Danil
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.2.0.
+This is a resume for a job application, it is intended to introduce candidate.
 
 ## Development server
 
